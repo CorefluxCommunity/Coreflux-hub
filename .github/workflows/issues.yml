@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: danhellem/github-actions-issue-to-work-item@v2.3
         env:
-          ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}"
+          ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN_COREFLUXPROD }}"
           github_token: "${{ secrets.GITHUB_TOKEN }}"
           ado_organization: "CorefluxProd"
           ado_project: "BrokerAndHub"
