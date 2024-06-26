@@ -13,9 +13,9 @@ Thank you for being part of our journey to revolutionize IoT connectivity and ma
 Explore the Coreflux Hub documentation for guidance and support. Our comprehensive resources are designed to help you every step of the way.
 
 ### Getting Started with Coreflux Hub
-- **Installation**: Begin your journey by installing the Coreflux Hub with our [Installation Guide](https://docs.coreflux.org/getting-started/hub/installation).
-- **Configuration**: Navigate through the Hub's settings with ease using our [Configuration Instructions](https://docs.coreflux.org/getting-started/hub/configuration).
-- **Create Account**: Get additional benefits by creating a Coreflux account, sign up [here](https://docs.coreflux.org/getting-started/hub/create-account).
+- **Installation**: Begin your journey by installing the Coreflux Hub with our [Installation Guide](https://docs.coreflux.org/getting-started/installation-hub/).
+- **Configuration**: Navigate through the Hub's settings with ease using our [Configuration Instructions](https://docs.coreflux.org/getting-started/config-hub/).
+- **Create Account**: Get additional benefits by creating a Coreflux account, sign up [here](https://docs.coreflux.org/getting-started/asset-installation/#logging-into-your-account).
 - **Certificate and Secure Connection**: Secure your connections, tailored for the Hub experience with our [Certificates Guide](https://docs.coreflux.org/getting-started/hub/certificates).
 - **Setup Websockets**: Experience seamless interactions with web applications and platforms supporting WebSockets with our [Websockets Setup](https://docs.coreflux.org/getting-started/hub/websockets).
 
